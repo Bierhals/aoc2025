@@ -1,7 +1,4 @@
-﻿using System;
-using System.IO;
-using System.Collections.Generic;
-using day1;
+﻿using day1;
 
 // Erwartet: 1 Argument = Pfad zur Eingabedatei
 if (args.Length < 1)
