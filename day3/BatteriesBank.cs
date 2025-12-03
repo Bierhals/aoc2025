@@ -1,0 +1,3 @@
+record BatteriesBank(byte[] Batteries)
+{
+}
