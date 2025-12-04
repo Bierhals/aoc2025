@@ -1,6 +1,4 @@
 ﻿// Erwartet: 1 Argument = Pfad zur Eingabedatei
-using System.Reflection.Metadata;
-
 if (args.Length < 1)
 {
 	Console.Error.WriteLine("Usage: dotnet run -- <input-file>");
