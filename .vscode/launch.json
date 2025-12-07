@@ -1,0 +1,15 @@
+{
+    // Verwendet IntelliSense zum Ermitteln möglicher Attribute.
+    // Zeigen Sie auf vorhandene Attribute, um die zugehörigen Beschreibungen anzuzeigen.
+    // Weitere Informationen finden Sie unter https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "C#: day7 Debug",
+            "type": "coreclr",
+            "request": "launch",
+            "program": "${workspaceFolder}/day7/bin/Debug/net10.0/day7.dll",
+            "args": ["day7/input.txt"]
+        }
+    ]
+}

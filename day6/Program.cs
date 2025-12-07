@@ -1,6 +1,6 @@
-﻿// Erwartet: 1 Argument = Pfad zur Eingabedatei
-using day6;
+﻿using day6;
 
+// Erwartet: 1 Argument = Pfad zur Eingabedatei
 if (args.Length < 1)
 {
 	Console.Error.WriteLine("Usage: dotnet run -- <input-file>");
